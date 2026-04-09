@@ -9,6 +9,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Release feed for SystemMetrics for macOS.</description>
         <language>en</language>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 09 Apr 2026 15:16:03 -0500</pubDate>
+            <link>https://system-metrics.garrypolley.com/</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/garrypolley/system-metrics-download/releases/download/v1.0.1/SystemMetrics.dmg" length="2469878" type="application/octet-stream" sparkle:edSignature="SSG3RC6flXDYWgSjIhcWTNRa6nMCxDIDCCOJDVF2tviOF77QmhF4JWepfqMO3w/Wouju6Sh7nGfw8mFB84PrAA=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Thu, 09 Apr 2026 14:08:19 -0500</pubDate>
             <link>https://system-metrics.garrypolley.com/</link>
@@ -21,6 +31,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 2BeiCetjlJLNHnq3l3dGKxMJPk6xCrSqkovjC0IQhYx0jh3M0eGp0GpyFDEJLja4Us8tFjkQAY6I4J5MRkNMDA==
-length: 1434
+edSignature: jCu5JffE0Nzr30hNvj6YdTdG5hUiNdw6xIkmbig0Oseh6bhRlc8zpqWOHRrSG8r7I4e3ClLt9axdEI8PiQo8CA==
+length: 2196
 -->
