@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
         <title>SystemMetrics Updates</title>
         <link>https://system-metrics.garrypolley.com/</link>
@@ -14,10 +16,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/garrypolley/system-metrics-download/releases/download/v1.0.0/SystemMetrics.dmg" length="1667207" type="application/octet-stream" sparkle:edSignature="v0tJ8QFXQMiyZvPTv9xJeBm2RQcQ5mFpQetQtf5YPnDP9h1NH3aWZHKrDvbFR0BZGAe8q8+Tf1JZQgaYNEJ+Cg=="></enclosure>
+            <enclosure url="https://github.com/garrypolley/system-metrics-download/releases/download/v1.0.0/SystemMetrics.dmg" length="2698005" type="application/octet-stream" sparkle:edSignature="Z70ft42kOWYzC4TMoJQNo3SPBXqfKpcOGlXz2WTCe53zvZvBswcM+CjTJerXEMMGnx61rS5yczZ39XG/Y66UCA=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: ZNVB69WOJE7UpukWp/ZXkgRgrD5K3GDdGtmfpT/mT83WcQqHOq35M6i1VLyglGEUtRJ+otTDLTZvpL35PJrfAA==
-length: 1442
+</rss>
+<!-- sparkle-signatures:
+edSignature: 2BeiCetjlJLNHnq3l3dGKxMJPk6xCrSqkovjC0IQhYx0jh3M0eGp0GpyFDEJLja4Us8tFjkQAY6I4J5MRkNMDA==
+length: 1434
 -->
