@@ -3,3 +3,5 @@
 .derivedDataRelease/
 dist/SystemMetrics.app/
 *.xcresult
+SystemMetrics/
+build.log
